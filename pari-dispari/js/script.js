@@ -44,7 +44,7 @@ function randomNumbGen() {
 /**
  * Description -> This function check the sum of two numbers and declares if it is odd or even
  * @param {Integer} sum -> The sum obtained by adding together the user number and the pc number
- * @returns {Number} -> Returns a string saying if the sum is odd or even
+ * @returns {String} -> Returns a string saying if the sum is odd or even
  */
 function isSumOddOrEven(sum) {
     if (sum % 2 == 0) {
